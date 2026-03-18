@@ -4,7 +4,7 @@ I'm currently a Student
 <ul>
   <li> I have skills mostly in HTML and CSS, but also </li>
   <li>I speak german natively, English really well by now, I learn Spanish at school and I'm trying to learn some Russian</li>
-  <li> I go to the gym quite a lot <img width="22px" src="biceps.gif"> 💪 </li>
+  <li> I go to the gym quite a lot <img width="20px" src="biceps.gif"> 💪 </li>
   <li> </li>
   <li> </li>
   <li> </li>
