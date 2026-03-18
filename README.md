@@ -1,5 +1,8 @@
-## Hi there 👋
-My name is Benjamin!
+## Hi, I'm Benjamin! <img src="">
+I'm currently a Student
+I speak German and English really well, I'm learning spanish at school, and I'm trying to learn some russian 
+
+
 
 <!--
 **Syosin-0/Syosin-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
