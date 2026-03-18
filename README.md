@@ -1,6 +1,15 @@
-## Hi, I'm Benjamin! <img src="">
-I'm currently a Student
-I speak German and English really well, I'm learning spanish at school, and I'm trying to learn some russian 
+## Hi, I'm Benjamin! <img src="waving_hand.gif">
+I'm currently a Student 
+
+<ul>
+  <li>I speak german natively, English really well by now, I learn spanish at school and I'm trying to learn some russian</li>
+  <li></li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  
+</ul>
 
 
 
