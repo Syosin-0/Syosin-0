@@ -1,10 +1,10 @@
-## Hi, I'm Benjamin! <img width="23px" src="waving_hand.gif">
+## Hi, I'm Benjamin! <img width="25px" src="waving_hand.gif">
 I'm currently a Student 
 
 <ul>
   <li> I have skills mostly in HTML and CSS, but also </li>
   <li>I speak german natively, English really well by now, I learn Spanish at school and I'm trying to learn some Russian</li>
-  <li> I go to the gym quite a lot <img src="biceps.gif"> </li>
+  <li> I go to the gym quite a lot <img width="25px" src="biceps.gif"> </li>
   <li> </li>
   <li> </li>
   <li> </li>
