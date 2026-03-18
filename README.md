@@ -1,7 +1,6 @@
 ## Hi, I'm Benjamin! <img width="25px" src="waving_hand.gif">
-I'm currently a Student 
-
 <ul>
+  <li> I'm a 10th Grade student in austria </li>
   <li> I have skills mostly in HTML and CSS, but also </li>
   <li>I speak german natively, English really well by now, I learn Spanish at school and I'm trying to learn some Russian</li>
   <li> I go to the gym quite a lot <img width="20px" src="biceps.gif"></li>
