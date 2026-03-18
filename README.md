@@ -2,8 +2,8 @@
 I'm currently a Student 
 
 <ul>
-  <li>I speak german natively, English really well by now, I learn spanish at school and I'm trying to learn some russian</li>
-  <li></li>
+  <li>I speak german natively, English really well by now, I learn Spanish at school and I'm trying to learn some Russian</li>
+  <li> I go to the gym quite a lot </li>
   <li> </li>
   <li> </li>
   <li> </li>
