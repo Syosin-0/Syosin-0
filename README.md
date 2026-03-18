@@ -1,4 +1,4 @@
-## Hi, I'm Benjamin! <img width="20px" src="waving_hand.gif">
+## Hi, I'm Benjamin! <img width="23px" src="waving_hand.gif">
 I'm currently a Student 
 
 <ul>
